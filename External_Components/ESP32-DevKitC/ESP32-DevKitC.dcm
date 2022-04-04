@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-DevKitC
+D WiFi / 802.11 Development Tools ESP32 General Development Kit, ESP-WROOM-32 on the board
+K
+F http://esp-idf.readthedocs.io/en/latest/get-started/get-started-devkitc.html
+$ENDCMP
+#
+#End Doc Library
