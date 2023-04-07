@@ -6,3 +6,4 @@
 - mirrored back side label fix
 - spin motor connectors to have correct orientation
 - fill back side gnd of motor drivers
+- set connectors 2.54 headers

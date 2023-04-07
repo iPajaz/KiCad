@@ -410,8 +410,7 @@
         "microvia_drill": 0.1,
         "name": "HiCurr",
         "nets": [
-          "+BATT",
-          "5V_GATED"
+          "+BATT"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -534,11 +533,39 @@
     ],
     [
       "4b10fb5e-e57c-48de-8995-e07357b61829",
-      "power_cutoff"
+      "PSU_Gated"
     ],
     [
       "66b52d7a-643b-4ebb-99a4-e300a8f33daf",
       "ADC"
+    ],
+    [
+      "8e94afc8-8a90-4428-8d31-5f2ec5156a08",
+      "PSU_3v3_BATT"
+    ],
+    [
+      "f9aa2f7d-62c7-45ed-af35-65e9b09f9142",
+      "TPS62110_MODULE"
+    ],
+    [
+      "251f0188-a1a2-4272-b8a3-3d592a53302f",
+      "PSU_3v3"
+    ],
+    [
+      "9ba82234-0516-41f0-a7eb-e6cc3252b954",
+      "io_expander"
+    ],
+    [
+      "209aa38d-e98a-408c-814b-7bb4848d03d5",
+      "ESP32_Module"
+    ],
+    [
+      "bd5f091a-3a64-41f8-8f2e-75fdc82bab1f",
+      "PSU_5v0"
+    ],
+    [
+      "4bf250c6-ed2f-4758-a4c2-7985f552414f",
+      "TPS62110_MODULE_BATT"
     ]
   ],
   "text_variables": {}
