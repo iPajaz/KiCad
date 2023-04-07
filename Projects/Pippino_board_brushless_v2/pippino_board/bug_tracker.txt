@@ -1,0 +1,9 @@
+- switch VDD/GND pins for main power input
+- add capacitors for motors, main power, 3.3v
+- bigger labels
+- fix label for gnd/3v3 in 2-row pin header
+- bigger labels and shift labels for motors so that they are visible
+- mirrored back side label fix
+- spin motor connectors to have correct orientation
+- fill back side gnd of motor drivers
+- set connectors 2.54 headers

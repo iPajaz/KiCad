@@ -1,0 +1,35 @@
+ERC report (2022 December 22, Thursday 13:29:40, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /DC Motor Driver 1/
+
+***** Sheet /DC Motor Driver 2/
+
+***** Sheet /PSU_Gated/
+
+***** Sheet /ADC/
+
+***** Sheet /PSU_3v3_BATT/
+
+***** Sheet /PSU_Gated/PSU_3v3/TPS62110_MODULE/
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error (excluded)
+    @(153.67 mm, 73.66 mm): Symbol U10 [TPS62110] Pin 15 [SW, Power output, Line]
+    @(153.67 mm, 76.20 mm): Symbol U10 [TPS62110] Pin 14 [SW, Power output, Line]
+
+***** Sheet /PSU_Gated/PSU_3v3/
+
+***** Sheet /io_expander/
+
+***** Sheet /ESP32_Module/
+
+***** Sheet /PSU_Gated/PSU_5v0/
+
+***** Sheet /PSU_3v3_BATT/TPS62110_MODULE_BATT/
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; Severity: error (excluded)
+    @(153.67 mm, 76.20 mm): Symbol U10 [TPS62110] Pin 14 [SW, Power output, Line]
+    @(153.67 mm, 73.66 mm): Symbol U10 [TPS62110] Pin 15 [SW, Power output, Line]
+
+ ** ERC messages: 2  Errors 2  Warnings 0
