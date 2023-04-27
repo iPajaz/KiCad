@@ -7,3 +7,8 @@
 - spin motor connectors to have correct orientation
 - fill back side gnd of motor drivers
 - set connectors 2.54 headers
+
+Pippino v2 brushless bugs:
+- voltage dividers for buck converters must be on vout, not vin
+- wrong footprint for ferrite beads
+- wrong footprint for tms62110

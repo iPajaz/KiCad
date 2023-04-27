@@ -1,0 +1,10 @@
+fix water level silkscreen: vdd/gnd swapped -> DONE
+fix polarity of M1/M3: outputs are flipped wrt M0/M2, so ctrl signals in1/in2 have to be swapped -> DONE
+
+add pu resistor 5k1 or 4k7 to temperature sensor signal
+add 1kohm resistor between VDD and water level signal
+
+ph Meter requires clean 5v supply. add that to ph connector
+
+ralay board supply should be 12v. Check if it can be on the normal connector.
+
