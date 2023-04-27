@@ -9,6 +9,7 @@
 - set connectors 2.54 headers
 
 Pippino v2 brushless bugs:
-- voltage dividers for buck converters must be on vout, not vin
-- wrong footprint for ferrite beads
-- wrong footprint for tms62110
+- voltage dividers for buck converters must be on vout, not vin --> FIXED
+- wrong footprint for ferrite beads --> FIXED
+- wrong footprint for tms62110 --> FIXED
+- wrong pinout of 2N3904 --> FIXED
