@@ -142,6 +142,12 @@
     (uuid ea5ebbdb-f569-4735-92db-dae7307a8b4d)
   )
 
+  (text "Wrong design, resistor divider should be at the VOUT"
+    (at 115.57 67.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c70c42d3-af3c-4b37-963f-b2168a27236b)
+  )
+
   (hierarchical_label "Power_Good_Flag" (shape output) (at 175.26 91.44 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 46ca0ec6-65ec-4c67-9c55-9ecd51f8bfc0)
