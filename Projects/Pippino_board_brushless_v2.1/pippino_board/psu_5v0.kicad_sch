@@ -394,7 +394,7 @@
     (property "Value" "CKCS_BK03" (at 140.97 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "pcb_modules:CKCS_BK03" (at 132.08 76.2 0)
+    (property "Footprint" "Pcb_Modules:CKCS-BK03" (at 132.08 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 132.08 76.2 0)

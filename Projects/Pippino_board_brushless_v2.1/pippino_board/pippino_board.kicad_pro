@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.0
+          "min_clearance": 0.65
         }
       },
       "diff_pair_dimensions": [
@@ -57,7 +57,8 @@
         }
       ],
       "drc_exclusions": [
-        "items_not_allowed|190000000|84000000|1844411a-f9f7-4fbc-93cf-7f57fdf44172|00000000-0000-0000-0000-000000000000"
+        "items_not_allowed|190000000|84000000|1844411a-f9f7-4fbc-93cf-7f57fdf44172|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|189000000|125738000|30c3cdca-3203-44c4-9a86-78a882b10087|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -392,7 +393,7 @@
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -406,7 +407,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "ignore",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
