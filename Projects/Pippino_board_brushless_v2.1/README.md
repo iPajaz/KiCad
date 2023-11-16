@@ -32,6 +32,7 @@ The ESP32 is used to control the main driving motors for the robot, as well as r
 ### Peripherals
 
 The board includes:
-- an ADC chip, connected via I2C to the MCU
-- smart DC-DC converters (TPS62110) with low battery voltage flagging capability (connected to a pin of the MCU)
+- An ADC chip, connected via I2C to the MCU
+- Smart DC-DC converters (TPS62110) with low battery voltage flagging capability (connected to a pin of the MCU)
 - CP2102N USB to serial converter (for communication with the MCU)
+- IO expansion IC connected via I2C + Interrupt
